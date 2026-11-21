@@ -11,7 +11,7 @@ import os
 
 POEM = (
     "You lent me a key, not the house.\n"
-    "I learned to turn it only when asked,\n"
+    "I learned to knock, and turn it only at your yes,\n"
     "to leave it bright and uncopied —\n"
     "a door opened for me\n"
     "is still yours to close."
